@@ -18,7 +18,6 @@ public class Exc {
 			System.out.println("Please Enter Valid Y value :");
 			y=ob.nextInt();
 			System.out.println("Div is"+x/y);
-			
 		}
 		}
 	
